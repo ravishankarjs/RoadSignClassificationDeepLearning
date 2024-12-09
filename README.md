@@ -1,0 +1,1 @@
+A deep learning project for classifying Australian road signs with a focus on robust image preprocessing, model optimization, and generalization across diverse datasets. Designed to enhance autonomous vehicle applications.
